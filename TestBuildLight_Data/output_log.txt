@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.317 seconds
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\alber\Documents\Unity Projects\Mod e Prod\TestBuildLight_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.954418 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5dc8 -> priority: 1 
+  Thread -> id: 315c -> priority: 1 
+  Thread -> id: 13b4 -> priority: 1 
+  Thread -> id: 4eb0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.735043 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 495.
+Total: 1.183987 ms (FindLiveObjects: 0.107035 ms CreateObjectMapping: 0.090173 ms MarkObjects: 0.789569 ms  DeleteObjects: 0.195376 ms)
+
